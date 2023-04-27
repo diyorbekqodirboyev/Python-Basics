@@ -9,7 +9,7 @@ class Student:
     return self.last_name.title()
   def get_age(self):
     return self.age
-student_1 = Student(first_name = 'Diyorbek', 'Qodirboyev')
+student_1 = Student(first_name = 'Diyorbek', last_name = 'Qodirboyev', age = 17)
 print(student_1.get_first_name())
 print(student_1.get_last_name())
 print(student_1.get_age())
