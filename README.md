@@ -1,2 +1,2 @@
 # Python-Basics
-Python dasturlash tili asoslari
+Python dasturlash tili asoslaris
