@@ -1,2 +1,2 @@
 # Python-Basics
-HTML asoslari
+Python dasturlash tili asoslari
